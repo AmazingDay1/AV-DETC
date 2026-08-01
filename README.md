@@ -147,15 +147,14 @@ Classes: `Mavic2`, `Mavic3`, `Phantom4`, `Avata`, `M300`.
 
 ## Cite
 @ARTICLE{11479681,
-  author={Xiao, Zhenyuan and Yuan, Shenghai and Xu, Guili and Zeng, Xianglong and Hu, Huanran and He, Junwei and Yang, Yizhuo},
-  journal={IEEE Sensors Journal}, 
-  title={AV-DTEC: Self-Supervised Audio–Visual Fusion for Drone 3-D Trajectory Estimation and Classification}, 
-  year={2026},
-  volume={26},
-  number={10},
-  pages={15912-15924},
-  keywords={Feeds;Antennas;Filtering;Filters;MIMICs;Millimeter wave integrated circuits;Monolithic integrated circuits;Circuits and systems;Internet of Things;Communication systems;Audio Mamba (Adm);audio–visual fusion;primary–auxiliary feature fusion;self-supervised learning;uncrewed aerial vehicle (UAV) trajectory estimation},
-  doi={10.1109/JSEN.2026.3680898}}
+author={Xiao, Zhenyuan and Yuan, Shenghai and Xu, Guili and Zeng, Xianglong and Hu, Huanran and He, Junwei and Yang, Yizhuo},
+journal={IEEE Sensors Journal}, 
+title={AV-DTEC: Self-Supervised Audio–Visual Fusion for Drone 3-D Trajectory Estimation and Classification}, 
+year={2026},
+volume={26},
+number={10},
+pages={15912-15924},
+doi={10.1109/JSEN.2026.3680898}}
 
 
 ## License
