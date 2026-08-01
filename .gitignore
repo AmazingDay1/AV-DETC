@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Experiment artifacts
+output/
+*.pth
+*.pt
+light.txt
+loss.txt
+result.txt
+*.log
+
+# Local data / figures
+*.svg
+*.png
+*.jpg
+*.pdf
+*.gif
+*.csv
+*.zip
