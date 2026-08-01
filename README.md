@@ -146,6 +146,7 @@ Classes: `Mavic2`, `Mavic3`, `Phantom4`, `Avata`, `M300`.
 | Image 2D position | `[B, 2]` |
 
 ## Cite
+```
 @ARTICLE{11479681,
 author={Xiao, Zhenyuan and Yuan, Shenghai and Xu, Guili and Zeng, Xianglong and Hu, Huanran and He, Junwei and Yang, Yizhuo},
 journal={IEEE Sensors Journal}, 
@@ -155,7 +156,7 @@ volume={26},
 number={10},
 pages={15912-15924},
 doi={10.1109/JSEN.2026.3680898}}
-
+```
 
 ## License
 
